@@ -1,0 +1,5 @@
+version: '3'
+services:
+  rabbitmq-python3:
+    build: .
+    container_name: rabbitmq-python3
