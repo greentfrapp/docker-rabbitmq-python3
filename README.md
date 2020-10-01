@@ -1,6 +1,6 @@
 # docker-rabbitmq-python3
 
-Hypotenuse AI Docker Image for RabbitMQ + Python3 + Celery, based on Debian 10 (Buster)
+Docker Image for RabbitMQ + Python3 + Celery, based on Debian 10 (Buster)
 
 ## Quickstart
 
